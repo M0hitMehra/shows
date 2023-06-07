@@ -93,9 +93,9 @@ const ShowDetails = ({ show }) => {
             onClick={closeModal}
           ></div>
           <div
-            className="bg-gradient-to-r from-indigo-400 to-red-400 rounded-lg p-8 z-10 relative"
+            className="  rounded-lg bg-white opacity-70 p-8 z-10 relative"
             style={{
-              backdropFilter: "blur(100px)",
+              backdropFilter: "blur(010px)",
               WebkitBackdropFilter: "blur(100px)",
             }}
           >
